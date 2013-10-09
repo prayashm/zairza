@@ -21,11 +21,6 @@ body {
   background: url("../img/binding_dark.png");
 }
 
-.bs-docs-section{
-  background: #303030;
-  opacity: 0.97;
-  padding: 0 20px 0 20px;
-}
 
 .tag-line{
   font-size: 30px;
@@ -39,4 +34,8 @@ body {
 
 .page-header {
 	border-bottom: 0;
+}
+
+h2{
+  color: #2a9fd6;
 }
