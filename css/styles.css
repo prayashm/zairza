@@ -1,0 +1,42 @@
+@font-face{ 
+	font-family: 'Chintzy';
+	src: url('../fonts/chintzy.eot');
+	src: url('../fonts/chintzy.eot?#iefix') format('embedded-opentype'),
+	     url('../fonts/chintzy.woff') format('woff'),
+	     url('../fonts/chintzy.ttf') format('truetype'),
+	     url('../fonts/chintzy.svg#webfont') format('svg');
+}
+
+.logo {
+  font-family: "Chintzy";
+  font-size: 30px;
+  padding-top: 17.5px;
+  font-size: 120px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  text-shadow: 0 0 10px #fff;
+}
+
+body {
+  background: url("../img/binding_dark.png");
+}
+
+.bs-docs-section{
+  background: #303030;
+  opacity: 0.97;
+  padding: 0 20px 0 20px;
+}
+
+.tag-line{
+  font-size: 30px;
+  font-style: bold;
+  text-shadow: 0 0 10px #2a9fd6;
+}
+
+.container {
+	margin-bottom: 20px;
+}
+
+.page-header {
+	border-bottom: 0;
+}
